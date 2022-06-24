@@ -1,10 +1,11 @@
-![👾_XXX_PROJECT](https://user-images.githubusercontent.com/89473605/174677357-e9793dff-387e-4312-b250-dd2581d11603.png)
+![My project-2](https://user-images.githubusercontent.com/89473605/175666125-9cfbce77-d2a6-4b35-a2c2-c1e74d0ee7f0.png)
+
 <hr>
-<h4 align="center">A little description for project <a href="xxx" target="_blank">XXX</a>.</h4>
+<h4 align="center">A little description for project <a href="..." target="_blank">...</a>.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/asimcanyagiz/xxx">
-  <img src="https://img.shields.io/github/license/asimcanyagiz/xxx">
+  <img src="https://img.shields.io/github/commit-activity/y/asimcanyagiz/...">
+  <img src="https://img.shields.io/github/license/asimcanyagiz/...">
 </p>
 
 <p align="center">
@@ -39,10 +40,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/asimcanyagiz/xxx
+$ git clone https://github.com/asimcanyagiz/...
 
 # Go into the repository
-$ cd xxx
+$ cd ...
 
 # Install dependencies
 $ npm install
@@ -54,7 +55,7 @@ $ npm start
 
 ## Download
 
-You can [download](https://github.com/asimcanyagiz/xxx) the latest installable version of XXX for Windows, macOS and Linux.
+You can [download](https://github.com/asimcanyagiz/...) the latest installable version of ... for Windows, macOS and Linux.
 
 ## Technologies Used
 
@@ -73,16 +74,16 @@ You can [download](https://github.com/asimcanyagiz/xxx) the latest installable v
 
 ## Credits
 
-xxx - xxx
+... - ...
 
 ## Related
 
-xxx - xxx
+... - ...
 
 ## You may also like...
 
-- xxxx - A pomodoro app
-- [xxx]xxx - A menubar/taskbar Gmail App for Windows and macOS
+- ... - A pomodoro app
+- [...]... - A menubar/taskbar Gmail App for Windows and macOS
 
 ## License
 
