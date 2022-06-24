@@ -1,11 +1,11 @@
 ![My project-2](https://user-images.githubusercontent.com/89473605/175666125-9cfbce77-d2a6-4b35-a2c2-c1e74d0ee7f0.png)
 
 <hr>
-<h4 align="center">A little description for project <a href="..." target="_blank">...</a>.</h4>
+<h4 align="center">A little description for project <a href="https://github.com/asimcanyagiz/JavaScript-Clock" target="_blank">JavaScript-Clock</a>.</h4>
 
 <p align="center">
-  <img src="https://img.shields.io/github/commit-activity/y/asimcanyagiz/...">
-  <img src="https://img.shields.io/github/license/asimcanyagiz/...">
+  <img src="https://img.shields.io/github/commit-activity/y/asimcanyagiz/JavaScript-Clock">
+  <img src="https://img.shields.io/github/license/asimcanyagiz/JavaScript-Clock">
 </p>
 
 <p align="center">
@@ -40,22 +40,19 @@ To clone and run this application, you'll need [Git](https://git-scm.com) instal
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/asimcanyagiz/...
+$ git clone https://github.com/asimcanyagiz/JavaScript-Clock
 
 # Go into the repository
-$ cd ...
+$ cd JavaScript-Clock
 
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
+# Open with browser
+$ open index.html
 ```
 
 
 ## Download
 
-You can [download](https://github.com/asimcanyagiz/...) the latest installable version of ... for Windows, macOS and Linux.
+You can [download](https://github.com/asimcanyagiz/JavaScript-Clock) the latest installable version of JavaScript-Clock for Windows, macOS and Linux.
 
 ## Technologies Used
 
