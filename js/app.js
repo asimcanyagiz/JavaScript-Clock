@@ -23,3 +23,12 @@ let background =
 "";
 //BODY EVENTS - END
 
+//ESSENTIALS - START
+//This value for giving information parts of the day with allusion
+let partsOfDay =
+(time.getHours() >= 5 && time.getHours() < 12) ? document.querySelector("#dayPart").innerHTML = "I wish there were more than 24 hours":
+(time.getHours() >= 12 && time.getHours() < 17) ? document.querySelector("#dayPart").innerHTML = "Work hard, play hard":
+(time.getHours() >= 17 && time.getHours() < 21) ? document.querySelector("#dayPart").innerHTML = "Time to gossip and drink beer on a local pub mate!":
+(time.getHours() >= 21 || time.getHours() < 5) ? document.querySelector("#dayPart").innerHTML = "Sure grandma let's get you to bed":
+"";
+//ESSENTIALS - END
