@@ -69,7 +69,7 @@ You can [download](https://github.com/asimcanyagiz/JavaScript-Clock) the latest 
 
 Freepik - Background Images
 <br>
-Patika.dev - A page you should visited if you want developer
+Patika.dev - A page you should visit if you want developer
 
 ## You may also like...
 
