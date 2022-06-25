@@ -14,23 +14,19 @@
   <a href="#download">Download</a> •
   <a href="#technologies-used">Technologies Used</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/asimcanyagiz/electron-markdownify/master/app/img/markdownify.gif)
-
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
+* Real Time Clock
+  - Instantly see what is your time. With cool pictures feel 
+* Sync Background Images
+  - When page reloaded it will be automatically change background to the current time perspective.
+* With prompt you can see your name in the top of the clock
+* Allusion support, sync with clock. It is clock will make you happy.
 * Full screen mode
-  - Write distraction free.
+  - Not responsive but It can be responsive 🌺
 * Cross platform
   - Windows, macOS and Linux ready.
 
@@ -71,16 +67,14 @@ You can [download](https://github.com/asimcanyagiz/JavaScript-Clock) the latest 
 
 ## Credits
 
-... - ...
-
-## Related
-
-... - ...
+Freepik - Background Images
+<br>
+Patika.dev - A page you should visited if you want developer
 
 ## You may also like...
 
-- ... - A pomodoro app
-- [...]... - A menubar/taskbar Gmail App for Windows and macOS
+- [Instagram](https://github.com/asimcanyagiz/linkedinclone) - A Medium Clone
+- [LinkedIn](https://github.com/asimcanyagiz/linkedinclone) - A Linkedin Clone
 
 ## License
 
