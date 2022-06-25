@@ -20,11 +20,11 @@
 ## Key Features
 
 * Real Time Clock
-  - Instantly see what is your time. With cool pictures feel 
-  - ![Ekran Kaydı 2022-06-25 12 44 22](https://user-images.githubusercontent.com/89473605/175768680-12bd8ba3-966f-4d40-9feb-a3b12d61ca9a.gif)
+  - Instantly see what is your time. With cool pictures feel fresh![time](https://user-images.githubusercontent.com/89473605/175769704-698dc8b6-a247-486c-89a9-409166a4e32e.gif)
 
 * Sync Background Images
-  - When page reloaded it will be automatically change background to the current time perspective.
+  - When page reloaded it will be automatically change background to the current time perspective.![background](https://user-images.githubusercontent.com/89473605/175769758-ff954597-6015-494b-9257-0964fbf60b9e.gif)
+
 * With prompt you can see your name in the top of the clock
 * Allusion support, sync with clock. It is clock will make you happy.
 * Full screen mode
