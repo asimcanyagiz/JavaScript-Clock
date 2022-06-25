@@ -36,4 +36,12 @@ let partsOfDay =
 let reverseColorsClock=
 (time.getHours() >= 5 && time.getHours() < 12) ? document.querySelector(".clock").style.color = "white":
 "";
+
+//this value for giving information of credits about images
+let creditImages = 
+(time.getHours() >= 5 && time.getHours() < 12) ? document.querySelector("#credits").innerHTML = `<a href="https://www.freepik.com/vectors/sunset-clouds">Sunset clouds vector created by vectorpouch - www.freepik.com</a>`:
+(time.getHours() >= 12 && time.getHours() < 17) ? document.querySelector("#credits").innerHTML = `<a href='https://www.freepik.com/vectors/bay'>Bay vector created by upklyak - www.freepik.com</a>`:
+(time.getHours() >= 17 && time.getHours() < 21) ? document.querySelector("#credits").innerHTML = `<a href='https://www.freepik.com/vectors/fluffy-clouds'>Fluffy clouds vector created by macrovector - www.freepik.com</a>`:
+(time.getHours() >= 21 || time.getHours() < 5) ? document.querySelector("#credits").innerHTML = `<a href='https://www.freepik.com/vectors/rural-landscape'>Rural landscape vector created by upklyak - www.freepik.com</a>`:
+"";
 //ESSENTIALS - END
