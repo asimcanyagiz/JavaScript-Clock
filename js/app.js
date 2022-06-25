@@ -31,4 +31,9 @@ let partsOfDay =
 (time.getHours() >= 17 && time.getHours() < 21) ? document.querySelector("#dayPart").innerHTML = "Time to gossip and drink beer on a local pub mate!":
 (time.getHours() >= 21 || time.getHours() < 5) ? document.querySelector("#dayPart").innerHTML = "Sure grandma let's get you to bed":
 "";
+
+//This value for change color of time because visibility
+let reverseColorsClock=
+(time.getHours() >= 5 && time.getHours() < 12) ? document.querySelector(".clock").style.color = "white":
+"";
 //ESSENTIALS - END
