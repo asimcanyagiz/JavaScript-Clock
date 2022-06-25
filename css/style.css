@@ -39,3 +39,11 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     letter-spacing: 7px;
 }
+
+#credits{
+    padding-top: 40vh;
+}
+
+#credits a{
+    color: white;
+}
